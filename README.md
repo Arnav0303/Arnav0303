@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student in IIIT Delhi doing Btech in Computer sciencce, i have interest in coding and building projects. <br>
+I'm a student in IIIT Delhi doing Btech in Computer science, i have interest in coding and building projects. <br>
 
 
 ## 🌐 Socials:
